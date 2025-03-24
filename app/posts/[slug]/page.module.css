@@ -1,0 +1,4 @@
+.markdown h1 {
+    @reference "../../globals.css";
+    @apply text-4xl;
+}

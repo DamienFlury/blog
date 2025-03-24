@@ -4,7 +4,9 @@ title: "Preparation for the semester"
 
 # The idea
 
-A semester abroad. What an adventure! Our university
+Insert idea here...
+
+<!-- A semester abroad. What an adventure! Our university
 provides an excellent environment for us students to take
 this chance and supports us so well throughout this challenge. They
 nominate the students, help them with planning and organisation
@@ -33,5 +35,5 @@ at the phone informed me that I can actually apply for the
 student visa in South Korea! Or in any other place for that matter,
 but as I planned to go to Korea beforehand anyway, this seems perfect
 (if it works). I will ask the Japanese embassy of South Korea
-next to make sure this really works and to organize an appointment.
+next to make sure this really works and to organize an appointment. -->
 

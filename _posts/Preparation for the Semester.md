@@ -1,5 +1,6 @@
 ---
 title: "Preparation for the semester"
+position: [47.3872222222, 8.5005555556]
 ---
 
 # The idea

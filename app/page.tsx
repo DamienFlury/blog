@@ -1,10 +1,13 @@
+import MapWrapper from "@/components/map-wrapper";
 import { getAllPosts } from "@/lib/api";
 import Link from "next/link";
+
 
 export default function Home() {
   const posts = getAllPosts();
   return (
     <main className="m-4">
+      <MapWrapper posts={posts} />
       <h1 className="text-4xl">Damien&apos;s Blog</h1>
       Welcome to my blog, glad that you&apos;re here! Here you find
       my stories and adventures.

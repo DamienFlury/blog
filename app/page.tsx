@@ -8,7 +8,6 @@ export default function Home() {
   return (
     <main className="m-4">
       <MapWrapper posts={posts} />
-      <h1 className="text-4xl">Damien&apos;s Blog</h1>
       Welcome to my blog, glad that you&apos;re here! Here you find
       my stories and adventures.
       <h2 className="text-2xl">About my adventures and experiences abroad</h2>

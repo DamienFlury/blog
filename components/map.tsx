@@ -30,7 +30,7 @@ const Map = ({ posts }: MapProps) => {
     }
   }, [])
   return (
-    <div className="h-[320px]" id="map" />
+    <div className="h-[320px] rounded-lg" id="map" />
   )
 }
 
